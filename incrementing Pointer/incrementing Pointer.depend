@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587141702 source:c:\cworkspace\incrementing pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590435627 source:c:\cworkspace\malloc() realloc() and free() fnx in dynamic memory allocation\main.c
+	<stdio.h>
+	<stdlib.h>
+

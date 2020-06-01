@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590339889 source:c:\cworkspace\changing console colors\main.c
+	<stdio.h>
+	<stdlib.h>
+

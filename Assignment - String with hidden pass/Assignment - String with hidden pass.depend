@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587733324 source:c:\cworkspace\assignment - string with hidden pass\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

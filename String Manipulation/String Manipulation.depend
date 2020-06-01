@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1587723955 source:c:\cworkspace\string manipulation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

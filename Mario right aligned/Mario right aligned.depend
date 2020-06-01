@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587323763 source:c:\cworkspace\mario right aligned\main.c
+	<stdio.h>
+	<stdlib.h>
+

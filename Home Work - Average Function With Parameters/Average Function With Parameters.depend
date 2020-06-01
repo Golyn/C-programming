@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586265679 source:c:\cworkspace\average function with parameters\main.c
+	<stdio.h>
+	<stdlib.h>
+

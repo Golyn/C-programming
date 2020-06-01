@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586965571 source:c:\cworkspace\pointers making a pointer to change a variable's value\main.c
+	<stdio.h>
+	<stdlib.h>
+

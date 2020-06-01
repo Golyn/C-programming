@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586377840 source:c:\cworkspace\parsing arrays into functions\main.c
+	<stdio.h>
+	<stdlib.h>
+

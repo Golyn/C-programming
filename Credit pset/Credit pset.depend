@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590950284 source:c:\cworkspace\credit pset\main.c
+	<stdio.h>
+	<stdlib.h>
+

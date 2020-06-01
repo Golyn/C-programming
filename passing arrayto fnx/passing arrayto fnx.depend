@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586424423 source:c:\cworkspace\passing arrayto fnx\main.c
+	<stdio.h>
+	<stdlib.h>
+

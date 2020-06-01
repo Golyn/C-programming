@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587148175 source:c:\cworkspace\program to restart wsindows\main.c
+	<stdio.h>
+	<stdlib.h>
+

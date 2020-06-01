@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590433896 source:c:\cworkspace\dynamic memory allocation using malloc()\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1585783243 source:c:\cworkspace\bucky-string terminator\main.c
+	<stdio.h>
+	<stdlib.h>
+

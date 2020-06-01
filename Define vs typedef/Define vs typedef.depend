@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589212719 source:c:\cworkspace\define vs typedef\main.c
+	<stdio.h>
+	<stdlib.h>
+

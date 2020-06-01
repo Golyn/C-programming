@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586958977 source:c:\cworkspace\sharing static variables\main.c
+	<stdio.h>
+	<stdlib.h>
+

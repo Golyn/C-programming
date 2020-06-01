@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586272293 source:c:\cworkspace\homework-smallest function\main.c
+	<stdio.h>
+	<stdlib.h>
+

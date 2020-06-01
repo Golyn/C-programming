@@ -1,0 +1,4 @@
+# depslib dependency file v1.0
+1589225225 source:c:\cworkspace\getchar() and putchar() functions\main.c
+	<stdio.h>
+

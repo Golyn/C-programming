@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586011053 source:c:\cworkspace\array-try1\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1586209479 source:c:\cworkspace\homework-functions\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1586272164 source:c:\cworkspace\homework-largest functions\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587662616 source:c:\cworkspace\pointer to functionss\main.c
+	<stdio.h>
+	<stdlib.h>
+

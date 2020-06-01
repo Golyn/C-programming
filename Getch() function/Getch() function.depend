@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587881084 source:c:\cworkspace\getch() function\main.c
+	<stdio.h>
+	<stdlib.h>
+

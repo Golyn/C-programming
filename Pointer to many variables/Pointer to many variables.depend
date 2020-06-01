@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586968629 source:c:\cworkspace\pointer to many variables\main.c
+	<stdio.h>
+	<stdlib.h>
+

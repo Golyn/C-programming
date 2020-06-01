@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588574316 source:c:\cworkspace\bit field 2\main.c
+	<stdio.h>
+	<stdlib.h>
+

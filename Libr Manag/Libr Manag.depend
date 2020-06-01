@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1590274506 source:c:\cworkspace\libr manag\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+

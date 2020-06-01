@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586350477 source:c:\cworkspace\initializing 2d arrays\main.c
+	<stdio.h>
+	<stdlib.h>
+

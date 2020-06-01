@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586221947 source:c:\cworkspace\finding the average of n numbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

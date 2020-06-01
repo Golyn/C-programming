@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1587143554 source:c:\cworkspace\pointer aritmetic decrementing 2\main.c
+	<stdio.h>
+	<stdlib.h>
+

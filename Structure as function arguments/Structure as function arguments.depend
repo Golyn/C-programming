@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588984159 source:c:\cworkspace\structure as function arguments\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

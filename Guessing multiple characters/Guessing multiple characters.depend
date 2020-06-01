@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589673619 source:c:\cworkspace\guessing multiple characters\main.c
+	<stdio.h>
+	<stdlib.h>
+

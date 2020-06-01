@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589756258 source:c:\cworkspace\billing software\main.c
+	<stdio.h>
+	<stdlib.h>
+

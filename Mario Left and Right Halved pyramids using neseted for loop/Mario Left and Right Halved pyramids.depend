@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1587395454 source:c:\cworkspace\mario left and right halved pyramids\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1589928570 source:c:\cworkspace\mario left and right halved pyramids using neseted for loop\main.c
+	<stdio.h>
+	<stdlib.h>
+

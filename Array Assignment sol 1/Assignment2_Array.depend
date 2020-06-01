@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1586019816 source:c:\cworkspace\assignment2_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1586021503 source:c:\cworkspace\array assignment sol 1\main.c
+	<stdio.h>
+	<stdlib.h>
+

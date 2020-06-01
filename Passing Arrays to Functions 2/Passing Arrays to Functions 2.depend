@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586392547 source:c:\cworkspace\passing arrays to functions 2\main.c
+	<stdio.h>
+	<stdlib.h>
+

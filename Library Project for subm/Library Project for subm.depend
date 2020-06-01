@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590363008 source:c:\cworkspace\library project for subm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
